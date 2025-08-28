@@ -32,6 +32,5 @@ Git + GitHub
 ## 🤖 Autor 
 Projeto desenvolvido por Rhavelly Souza dos Santos.
 
----
 
 ![Finalizado](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR3eG5nNWRzMmVxbmpmcm80MjBnN2R5MXptenQ4Mm9rbXNqZDhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tIeCLkB8geYtW/giphy.gif)
