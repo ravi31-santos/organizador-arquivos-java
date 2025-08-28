@@ -23,9 +23,7 @@ movendo-os para subpastas de acordo com sua extensão (Imagens, Documentos, Mús
 ---
 
 ## ⚒️ Tecnologias e Ferramentas utilizadas
-Java 17+ 
-IntelliJ IDEA
-Git + GitHub
+[![My Skills](https://skillicons.dev/icons?i=java,idea,git,github)](https://skillicons.dev)
 
 ---
 
