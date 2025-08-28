@@ -1,5 +1,9 @@
 # 📂 Organizador de Arquivos em Java
 
+![Java](https://img.shields.io/badge/Java-17+-blue)
+![GitHub](https://img.shields.io/badge/GitHub-OK-lightgrey)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+
 Este projeto organiza automaticamente os arquivos da pasta **Downloads**,  
 movendo-os para subpastas de acordo com sua extensão (Imagens, Documentos, Músicas, Vídeos, Outros).
 
